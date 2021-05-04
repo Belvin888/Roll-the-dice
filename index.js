@@ -23,10 +23,10 @@ function myFunction() {
         var result = document.querySelector("h1").innerHTML = "Draw"
     }
 
-    alert(result);
+    
 }
 
-alert(result);
+
 
 
 
